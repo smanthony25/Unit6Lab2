@@ -1,0 +1,2 @@
+1. All of the nodes in the tree were encapsulated in positions and all nodes had pointers to the nodes around them
+2. The binary tree is different from the positional list because it can have two children for each node, which can each branch off as well. Positional list only had one "child" or pointer to the nearby nodes.
